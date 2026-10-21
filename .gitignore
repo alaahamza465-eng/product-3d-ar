@@ -1,0 +1,13 @@
+project/tex/
+project/hdri/
+project/fonts/
+project/maps/
+project/out/
+project/frames*/
+project/*.blend
+project/*.blend1
+project/anchors*.json
+project/audio/events*.json
+project/audio/out/
+project/logo/plate_mask.npy
+__pycache__/
