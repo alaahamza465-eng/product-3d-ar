@@ -78,4 +78,4 @@ python3 run_all.py --quality preview --out ~/product-film
 
 ---
 
-بدّك تتعلم الطريقة معي خطوة بخطوة؟ في ورشة مدفوعة. ابعتلي كلمة **ورشة** على انستقرام [@alaaalkhodaryofficial](https://instagram.com/alaaalkhodaryofficial).
+بدّك تتعلم الطريقة معي خطوة بخطوة؟ في ورشة مدفوعة. علّق كلمة **ورشة** تحت أي فيديو على حسابي بانستقرام [@alaaalkhodaryofficial](https://instagram.com/alaaalkhodaryofficial)، وبيوصلك رابط التسجيل على الخاص.
